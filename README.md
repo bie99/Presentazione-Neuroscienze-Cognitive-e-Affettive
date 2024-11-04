@@ -1,1 +1,2 @@
-La presente repository contiene una presentazione basata sull'articolo "Use it or lose it: How neurogenesis keeps the brain fit for learning" (TJ Shors, LM Anderson, D M Curlik II, SM Nokia), realizzata per il corso di Neuroscienze Cognitive e Affettive presso l'Università degli Studi "G. d'Annunzio" Chieti – Pescara.
+La presente repository contiene una presentazione basata sull'articolo "Use it or lose it: How neurogenesis keeps the brain fit for learning" (TJ Shors, LM Anderson, D M Curlik II, SM Nokia), realizzata per il corso di Neuroscienze Cognitive e Affettive della laurea magistrale in Computational Cognitive Science, presso l'Università degli Studi "G. d'Annunzio".
+doi: https://doi.org/10.1016/j.bbr.2011.04.023
